@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "code-academy-1"
+version = "0.1.0"
+description = ""
+authors = ["Ole-Jakob Olsen <ole.jakob.olsen@ngi.no>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
