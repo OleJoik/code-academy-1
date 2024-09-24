@@ -1,0 +1,6 @@
+{
+    "python.analysis.typeCheckingMode": "strict",
+    "ruff.lint.ignore": [
+        "F401"
+    ]
+}
